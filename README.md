@@ -1,0 +1,2 @@
+Weather forecasting is the task of forecasting weather conditions for a given location and time. With the use of weather data and algorithms, it is possible to predict weather conditions for the next n number of days.
+This project was done in Python, using Facebook's opensource prophet model. The dataset used can be found here: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
